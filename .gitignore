@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/ng_assistant_env/
 
 # Spyder project settings
 .spyderproject
